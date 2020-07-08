@@ -143,15 +143,15 @@ const markdownOptions: DropdownOption[] = [
 
 const imageLightOptions: DropdownOption[] = [
     { text: 'default', value: 'https://og-image-lac.vercel.app/images/white-bg.jpg' },
-    { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
-    { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
+    { text: 'audrey', value: 'https://og-image-lac.vercel.app/images/audrey.jpeg' },
+    { text: 'normal', value: 'https://og-image-lac.vercel.app/images/background.jpg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
 
     { text: 'default', value: 'https://og-image-lac.vercel.app/images/white-bg.jpg' },
-    { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
-    { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
+    { text: 'Next.js', value: 'https://og-image-lac.vercel.app/images/audrey.jpeg' },
+    { text: 'Hyper', value: 'https://og-image-lac.vercel.app/images/background.jpg' },
 ];
 
 const widthOptions = [
